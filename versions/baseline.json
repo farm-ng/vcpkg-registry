@@ -1,6 +1,6 @@
 {
   "default": {
-    "farm-ng-core-HEAD": {
+    "farm-ng-core-head": {
       "baseline": "0.0.0",
       "port-version": 0
     }
