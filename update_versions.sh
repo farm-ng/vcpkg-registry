@@ -16,4 +16,5 @@ find $DIR/ports -name "vcpkg.json" | xargs vcpkg/vcpkg format-manifest
   --x-builtin-registry-versions-dir=$DIR/versions \
   x-add-version \
   --all \
-  --verbose
+  --verbose \
+  $@
