@@ -1,7 +1,7 @@
 {
-  "name": "farm-ng-core",
+  "name": "farm-ng-core-head",
   "version": "0.0.0",
-  "description": "A foundational library for robotics and machine sensing applications.",
+  "description": "Tracks farm-ng-core at HEAD of a development branch.",
   "homepage": "https://github.com/farm-ng/farm-ng-core",
   "license": "Apache-2.0",
   "dependencies": [
