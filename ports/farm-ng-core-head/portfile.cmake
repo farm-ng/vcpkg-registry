@@ -21,7 +21,7 @@ vcpkg_cmake_configure(
 
 vcpkg_cmake_install()
 
-vcpkg_cmake_config_fixup(PACKAGE_NAME "farm-ng-core")
+vcpkg_cmake_config_fixup(PACKAGE_NAME "farm_ng_core")
 
 file(REMOVE_RECURSE "${CURRENT_PACKAGES_DIR}/debug/include")
 
