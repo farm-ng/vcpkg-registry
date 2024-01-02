@@ -3,7 +3,7 @@ set(VCPKG_USE_HEAD_VERSION ON)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO farm-ng/farm-ng-core
-    HEAD_REF cmake-spelunking
+    HEAD_REF vcpkg-dev
 )
 
 # TODO: Should be able to clean this up
