@@ -7,14 +7,13 @@
   "dependencies": [
     "boost-asio",
     "boost-signals2",
+    "ceres",
     "cli11",
     "eigen3",
     "fmt",
     {
       "name": "grpc",
-      "features": [
-        "codegen"
-      ]
+      "features": ["codegen"]
     },
     "gtest",
     "protobuf",
