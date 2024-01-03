@@ -13,7 +13,9 @@
     "fmt",
     {
       "name": "grpc",
-      "features": ["codegen"]
+      "features": [
+        "codegen"
+      ]
     },
     "gtest",
     "protobuf",
