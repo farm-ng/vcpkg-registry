@@ -1,5 +1,9 @@
 {
   "default": {
+    "farm-ng-core-deps": {
+      "baseline": "0.0.0",
+      "port-version": 0
+    },
     "farm-ng-core-head": {
       "baseline": "0.0.0",
       "port-version": 0
