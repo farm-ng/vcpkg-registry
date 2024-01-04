@@ -7,7 +7,12 @@
   "dependencies": [
     "boost-asio",
     "boost-signals2",
-    "ceres",
+    {
+      "name": "ceres",
+      "features": [
+        "eigensparse"
+      ]
+    },
     "cli11",
     "eigen3",
     "fmt",
